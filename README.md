@@ -149,7 +149,7 @@ Each line in `final_result_*.jsonl` is a JSON object containing the model's resp
 
 | Path | Size | Description |
 |------|------|-------------|
-| `checkpoints/1_1/1_cls_model.pt` | Quality detection/filtering model |
+| `checkpoints/1_1/1_cls_model.pt` | 1-trimester-class fetal ultrasound plane classifier |
 | `checkpoints/1_2/2_3_cls_model.pth` | 2_3-trimester-class fetal ultrasound plane classifier |
 | `checkpoints/checkpoint-merged/` | multimodal model (36 layers) |
 
